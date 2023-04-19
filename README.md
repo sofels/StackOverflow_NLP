@@ -1,6 +1,6 @@
 # StackOverflow_NLP
 
-This repository analyses data collected from Stack Overflow. The data is categorized into 3 topics: Machine Learning, Spark and Security.
+This repository analyses data collected from Stack Overflow using PySpark on Databricks. The data is categorized into 3 topics: Machine Learning, Spark and Security.
 
 [Data Analysis notebook](https://github.com/sofels/StackOverflow_NLP/blob/main/StackOverflow_DataAnalysis.ipynb) : cleaning and preprocessing of the comments and statistical data of the most common words in the answers columns.
 
